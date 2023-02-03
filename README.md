@@ -9,7 +9,7 @@ This project will use data from the UK Food Standards Agency to evaluate food es
   
 
 ## This project consists of 3 parts:
-1. Setup of a Mongo NoSQL Database, import json file, and the Jupyter Notebooks environment
+1. Setup of a Mongo NoSQL Database, import json file, and set the Jupyter Notebooks environment
 2. Add, update, and delete Documents once loaded to a Collection in the Mongo database
 3. Perform an exploratory analysis against MongoDB of the relevant data with Jupyter Notebooks
 
