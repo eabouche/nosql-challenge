@@ -1,6 +1,6 @@
 # nosql-challenge
 
-This project will use data from the UK Food Standards Agency to evaluate food establishments in the London/UK area and perform analysis around their hygiene rating. The data will be loaded into Mongo NoSQL database, cleaned once loaded to a collection, and anlyzed in Jupyter Notebooks with relevant Python libraries. 
+This project will use data from the UK Food Standards Agency to evaluate food establishments in the London/UK area and perform analysis around their hygiene rating. The data will be loaded into a Mongo NoSQL database, cleaned once loaded into a collection, and analyzed in Jupyter Notebooks using relevant Python libraries. 
 
 
 ## Created By:
