@@ -1,6 +1,6 @@
 # nosql-challenge
 
-This project will evaluate food establishments in the London/UK area and perform analysis around their hygiene rating.  
+This project will use data from the UK Food Standards Agency to evaluate food establishments in the London/UK area and perform analysis around their hygiene rating.  
 
 
 ## Created By:
@@ -14,4 +14,6 @@ This project will evaluate food establishments in the London/UK area and perform
 3. Perform an exploratory analysis of the relevant remaining data
 
   
+## Dataset
 
+- Establishments.json
